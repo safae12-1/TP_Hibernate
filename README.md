@@ -5,3 +5,4 @@
 EXO2
 
 
+![Capture d'écran 2023-10-17 121700](https://github.com/safae12-1/TP_Hibernate/assets/124156186/35eb59e6-d7b9-41d1-8032-68428194128a)
